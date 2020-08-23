@@ -75,6 +75,9 @@ header a {
 .barra-busqueda{
     display: inline;
 }
+.barra-busqueda input {
+    outline: none;
+}
 .c-barra-busqueda{
     border: solid 1px #55585D;
     border-radius: 40px;
